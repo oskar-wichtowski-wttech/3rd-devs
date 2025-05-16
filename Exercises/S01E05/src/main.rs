@@ -87,6 +87,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .as_str()
         .unwrap_or("Error: No response from OpenAI");
     
+    println!("{}", censored_text);
     let mut censored_file = File::create("censored.txt")?;
     censored_file.write_all(censored_text.as_bytes())?;
 
