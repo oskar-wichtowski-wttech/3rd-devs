@@ -1,0 +1,263 @@
+{
+  "original_data": [
+    {
+      "base_id": "7742",
+      "letter": "D",
+      "weight": "16"
+    },
+    {
+      "base_id": "8823",
+      "letter": "N",
+      "weight": "6"
+    },
+    {
+      "base_id": "1892",
+      "letter": "E",
+      "weight": "17"
+    },
+    {
+      "base_id": "8993",
+      "letter": "{",
+      "weight": "1"
+    },
+    {
+      "base_id": "2288",
+      "letter": "}",
+      "weight": "20"
+    },
+    {
+      "base_id": "1463",
+      "letter": ":",
+      "weight": "5"
+    },
+    {
+      "base_id": "8449",
+      "letter": "W",
+      "weight": "8"
+    },
+    {
+      "base_id": "9858",
+      "letter": "R",
+      "weight": "18"
+    },
+    {
+      "base_id": "4942",
+      "letter": "F",
+      "weight": "2"
+    },
+    {
+      "base_id": "3137",
+      "letter": "D",
+      "weight": "13"
+    },
+    {
+      "base_id": "8859",
+      "letter": "{",
+      "weight": "0"
+    },
+    {
+      "base_id": "6885",
+      "letter": "G",
+      "weight": "4"
+    },
+    {
+      "base_id": "6847",
+      "letter": "}",
+      "weight": "19"
+    },
+    {
+      "base_id": "3581",
+      "letter": "R",
+      "weight": "15"
+    },
+    {
+      "base_id": "5366",
+      "letter": "O",
+      "weight": "10"
+    },
+    {
+      "base_id": "6087",
+      "letter": "R",
+      "weight": "11"
+    },
+    {
+      "base_id": "4338",
+      "letter": "W",
+      "weight": "9"
+    },
+    {
+      "base_id": "2428",
+      "letter": "L",
+      "weight": "3"
+    },
+    {
+      "base_id": "7129",
+      "letter": "O",
+      "weight": "14"
+    },
+    {
+      "base_id": "9359",
+      "letter": "L",
+      "weight": "12"
+    },
+    {
+      "base_id": "6409",
+      "letter": "E",
+      "weight": "7"
+    }
+  ],
+  "sorted_by_weight": [
+    {
+      "base_id": "8859",
+      "letter": "{",
+      "weight": "0"
+    },
+    {
+      "base_id": "8993",
+      "letter": "{",
+      "weight": "1"
+    },
+    {
+      "base_id": "4942",
+      "letter": "F",
+      "weight": "2"
+    },
+    {
+      "base_id": "2428",
+      "letter": "L",
+      "weight": "3"
+    },
+    {
+      "base_id": "6885",
+      "letter": "G",
+      "weight": "4"
+    },
+    {
+      "base_id": "1463",
+      "letter": ":",
+      "weight": "5"
+    },
+    {
+      "base_id": "8823",
+      "letter": "N",
+      "weight": "6"
+    },
+    {
+      "base_id": "6409",
+      "letter": "E",
+      "weight": "7"
+    },
+    {
+      "base_id": "8449",
+      "letter": "W",
+      "weight": "8"
+    },
+    {
+      "base_id": "4338",
+      "letter": "W",
+      "weight": "9"
+    },
+    {
+      "base_id": "5366",
+      "letter": "O",
+      "weight": "10"
+    },
+    {
+      "base_id": "6087",
+      "letter": "R",
+      "weight": "11"
+    },
+    {
+      "base_id": "9359",
+      "letter": "L",
+      "weight": "12"
+    },
+    {
+      "base_id": "3137",
+      "letter": "D",
+      "weight": "13"
+    },
+    {
+      "base_id": "7129",
+      "letter": "O",
+      "weight": "14"
+    },
+    {
+      "base_id": "3581",
+      "letter": "R",
+      "weight": "15"
+    },
+    {
+      "base_id": "7742",
+      "letter": "D",
+      "weight": "16"
+    },
+    {
+      "base_id": "1892",
+      "letter": "E",
+      "weight": "17"
+    },
+    {
+      "base_id": "9858",
+      "letter": "R",
+      "weight": "18"
+    },
+    {
+      "base_id": "6847",
+      "letter": "}",
+      "weight": "19"
+    },
+    {
+      "base_id": "2288",
+      "letter": "}",
+      "weight": "20"
+    }
+  ],
+  "flag": "{{FLG:NEWWORLDORDER}}",
+  "characters": [
+    "{",
+    "{",
+    "F",
+    "L",
+    "G",
+    ":",
+    "N",
+    "E",
+    "W",
+    "W",
+    "O",
+    "R",
+    "L",
+    "D",
+    "O",
+    "R",
+    "D",
+    "E",
+    "R",
+    "}",
+    "}"
+  ],
+  "weight_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ]
+}
