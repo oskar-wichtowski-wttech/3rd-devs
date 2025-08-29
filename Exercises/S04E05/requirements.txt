@@ -1,0 +1,8 @@
+requests
+python-dotenv
+PyMuPDF
+pdf2image
+pytesseract
+openai==0.28.1
+Pillow
+poppler-utils
